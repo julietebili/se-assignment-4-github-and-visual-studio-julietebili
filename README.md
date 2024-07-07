@@ -376,10 +376,13 @@ Debugging in Visual Studio:
 ANSWER:
 
 Steps to Integrate a GitHub Repository with Visual Studio:
+![alt text](clone_page.png)
 
-Create a GitHub repository: Create a new repository on GitHub and clone it to your local machine.
-Open the GitHub repository in Visual Studio: Select "File" > "Open" > "GitHub" and authenticate your GitHub account. Select the desired repository and click "Clone".
-Configure the local repository: In Visual Studio, right-click the project file and select "Source Control" > "Connect to Source Control". Choose the "GitHub" option and provide the remote repository URL.
+Create a GitHub repository: 
+- Create a new repository on GitHub and clone it to your local machine.
+- Open the GitHub repository in Visual Studio: Select "File" > "Open" > "GitHub" and authenticate your GitHub account. Select the desired repository and click "Clone".
+- Configure the local repository: In Visual Studio, right-click the project file and select "Source Control" > "Connect to Source Control". Choose the "GitHub" option and provide the remote repository URL.
+
 How This Integration Enhances the Development Workflow:
 
 Version Control: Visual Studio seamlessly integrates with GitHub, allowing you to track changes, commit code, and manage branches efficiently.
